@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snehal Vitthal</h1>
 <h3 align="center">An Aspiring Data Analyst and Passionate Frontend Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priortask&label=Profile%20views&color=0e75b6&style=flat" alt="priortask" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
